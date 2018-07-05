@@ -1,0 +1,177 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.im {
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin: 45px 0 10px;
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+.tah {
+  margin: 0 0 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: white;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 500px;
+  justify-content: space-between;
+  margin-left: 500px;
+  margin-right: 500px;
+  color: orchid;
+}
+
+.Item {
+  grid-row-start: 1;
+  grid-row: 4;
+}
+
+.bb {
+  background: transparent;
+}
+
+.AA {
+  margin-top: 3en;
+  color: mediumvioletred;
+  text-align: center;
+}
+
+.AA>i {
+  border: 1px solid white;
+  margin-right: 30px;
+  padding: 3px;
+  margin-top: 50px;
+}
+
+.AAA {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 40px;
+  color: purple;
+}
+
+header {
+  background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(17, 0, 0, 0.5)), url('http://choco-pixel.com/SeventyTwo-1.6/Slideshow/img/background/2.jpg');
+  height: 650px;
+  width: 100%;
+}
+
+.KL {
+  background-color: #E5E9E9;
+  height: 900px;
+  width: 100%;
+}
+
+.TT {
+  padding-left: 270px;
+  padding-right: 270px;
+}
+
+.gh {
+  color: grey;
+  text-align: center;
+  margin-right: 50px;
+  padding: 40px;
+  font-size: 25px;
+}
+
+.GG {
+  color: #735860;
+}
+
+.hexa1 {clip-path: polygon(50% 0%, 100% 38%, 84% 100%, 18% 100%, 0% 38%);
+  width: 130px;
+  height: 100px;
+  background-color: #A4A4A4;
+  margin-top: 30px;
+  margin: 0 auto;
+  width: 100px;}
+  .hexa2 {clip-path: polygon(50% 0%, 100% 38%, 84% 100%, 18% 100%, 0% 38%);
+    width: 130px;
+    height: 100px;
+    background-color: #A4A4A4;
+    margin-top: 30px;
+    margin: 0 auto;
+    width: 100px;}
+    .hexa3 {clip-path: polygon(50% 0%, 100% 38%, 84% 100%, 18% 100%, 0% 38%);
+      width: 130px;
+      height: 100px;
+      background-color: #A4A4A4;
+      
+      margin: 0px;
+      width: 100px;
+  }
+
+.rec1 {
+  width: 210px;
+  height: 350px;
+  background-color: gray;
+  margin-top: 0px;
+  margin-left: 50px;
+  margin-bottom: 55px;
+  
+
+}
+
+
+.rec2 {
+  width: 210px;
+  height: 350px;
+  background-color: gray;
+  margin-top: 0px;
+  margin-left: 200px;
+  margin-bottom: 55px;
+  
+
+}
+.rec3 {
+  width: 190px;
+  height: 240px;
+  background-color: gray;
+  margin-top: 0px;
+  margin-left: 200px;
+  margin-bottom: 55px;
+  padding: 54px;
+}
+.cogs {
+  color: fuchsia;
+  font-size: 50px;
+  margin-left: auto;
+  margin-top: 25px;
+  margin: 0 auto;
+  width: 100px;}
+
+.KK {
+  margin:  auto;
+
+ 
+  
+}
+  
+  
+
+.parent {
+  position: relative;}
+  
+
+.child {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  position: absolute;
+  top: 50%;}
+  .ff{
+    display: flex;
+    flex-direction: row
+
+  }
